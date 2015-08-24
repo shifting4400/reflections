@@ -1,0 +1,4 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+If my hard drive fails then I don't loose all my data because it is in the cloud.
+
