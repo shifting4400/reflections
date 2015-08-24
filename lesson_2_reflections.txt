@@ -25,4 +25,3 @@ It's good for getting all the newest features in our version.
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
 It's about life :)
-
