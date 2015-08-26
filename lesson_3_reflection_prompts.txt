@@ -14,3 +14,10 @@ What is the benefit of having a copy of the last known state of the remote store
 
 I have the newest changes.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would use svn probably.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+Every branch can stand for a different logical part of the whole system.
